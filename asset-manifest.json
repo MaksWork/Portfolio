@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.89a1cb15.css",
+    "main.js": "/Portfolio/static/js/main.86afa6a2.js",
+    "static/media/2223.png": "/Portfolio/static/media/2223.0a2bf970aa21aa0afaf7.png",
+    "static/media/competition.png": "/Portfolio/static/media/competition.490c7ba460410d56ac30.png",
+    "static/media/Logo.png": "/Portfolio/static/media/Logo.57995bf0e4add27eb2ed.png",
+    "static/media/club.png": "/Portfolio/static/media/club.36722674b5cab6f0ccde.png",
+    "static/media/AFRO.png": "/Portfolio/static/media/AFRO.1fe7fa165bb82a463bcf.png",
+    "static/media/s.png": "/Portfolio/static/media/s.0281e902b69114e72adf.png",
+    "static/media/hiphop.png": "/Portfolio/static/media/hiphop.db23862120839271b851.png",
+    "static/media/cloud.png": "/Portfolio/static/media/cloud.1c11e36cecaa37cdcbec.png",
+    "static/media/2.png": "/Portfolio/static/media/2.2e40083abc58eca8527a.png",
+    "static/media/1.png": "/Portfolio/static/media/1.71132bd2e236e97891c9.png",
+    "static/media/hiphopNight.png": "/Portfolio/static/media/hiphopNight.04e18e1ae789ef35c984.png",
+    "static/media/oldSchool.png": "/Portfolio/static/media/oldSchool.7378c07bdd234756c62b.png",
+    "static/media/competition_logo.png": "/Portfolio/static/media/competition_logo.43a20d0a99228b7ed4ff.png",
+    "static/media/3.png": "/Portfolio/static/media/3.6254ff2ba3d00f4ec052.png",
+    "static/media/howdy.png": "/Portfolio/static/media/howdy.c21c56a3b37ef5b2ccea.png",
+    "index.html": "/Portfolio/index.html",
+    "main.89a1cb15.css.map": "/Portfolio/static/css/main.89a1cb15.css.map",
+    "main.86afa6a2.js.map": "/Portfolio/static/js/main.86afa6a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a1cb15.css",
+    "static/js/main.86afa6a2.js"
+  ]
+}
